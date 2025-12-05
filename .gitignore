@@ -1,0 +1,9 @@
+# Generated build files
+/build/
+/.idea/
+*.iml
+*.apk
+*.aab
+
+# Local configuration
+/local.properties
